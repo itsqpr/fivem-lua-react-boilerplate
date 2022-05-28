@@ -16,5 +16,5 @@ yarn serve
 
 ### Build
 ```
-yarn
+yarn build
 ```
