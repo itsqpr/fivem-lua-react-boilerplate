@@ -199,7 +199,7 @@
   integrity sha512-kW4CUm+aWFu8RZLTdx71ojsx1H+UucaBNVpAxZYJSs8yZppI2Sm31MlTsWRxj2bpTtgxniPWhABSopoExYLhcg==
   dependencies:
     abort-controller "3.0.0"
-    node-fetch "2.6.1"
+    node-fetch "2.6.7"
     text-encoding "0.7.0"
     ws "6.2.1"
 
@@ -1844,9 +1844,9 @@ multimatch@^4.0.0:
     arrify "^2.0.1"
     minimatch "^3.0.4"
 
-node-fetch@2.6.1:
-  version "2.6.1"
-  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.1.tgz#045bd323631f76ed2e2b55573394416b639a0052"
+node-fetch@2.6.7:
+  version "2.6.7"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.7.tgz#045bd323631f76ed2e2b55573394416b639a0052"
   integrity sha512-V4aYg89jEoVRxRb2fJdAg8FHvI7cEyYdVAh94HH0UIK8oJxUfkjlDQN9RbMx+bEjP7+ggMiFRprSti032Oipxw==
 
 nodemon@^2.0.15:
