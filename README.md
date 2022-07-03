@@ -6,7 +6,7 @@ This started as a fork of [fivem-react-boilerplate](https://github.com/calumari/
 
 ### Clone boilerplate
 ```
-git clone https://github.com/waddle1010/fivem-lua-react-boilerplate.git
+git clone https://github.com/itsqpr/fivem-lua-react-boilerplate.git
 ```
 
 ### Install dependencies
